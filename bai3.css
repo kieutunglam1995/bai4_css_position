@@ -1,0 +1,18 @@
+.div1{
+    color: azure;
+    position: absolute;
+    top: 230px;
+}
+.div2{
+    width: 300px;
+color: azure;
+    position: absolute;
+    top: 240px;
+}
+.div3{
+    color: aliceblue;
+    /* position: absolute;
+    top: 295px; */
+    position: relative;
+    top: -25px;
+}

@@ -1,0 +1,34 @@
+.div0{
+    width: 352px;
+    height: 352px;
+    background-color: blueviolet;
+}
+.theb{
+    color: aliceblue;
+}
+.div1{
+   width: 110px;
+   background-color: rebeccapurple;
+   color: aliceblue;
+   position: absolute;
+   top: 30px;
+   left: 130px;
+    
+}
+.div2{
+     width: 119px;
+   background-color: rgba(128, 0, 128, 0.419);
+   color: aliceblue;
+    position: absolute;
+   top: 31px;
+   left: 240px;
+   
+
+}
+.div3{
+    width: 351px;
+    background-color: rebeccapurple;
+    position: relative;
+    top: -312px;
+
+}
